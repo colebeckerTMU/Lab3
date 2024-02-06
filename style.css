@@ -1,0 +1,51 @@
+body {
+    background-color:rgb(249, 234, 209);
+    color: rgb(0, 128, 128);
+    font-family: Arial;
+    font-size: 12px;
+    margin: 12pt;
+}
+
+h1{
+    color: rgb(0, 125, 125);
+    font-size: 24px;
+    font-family:'Arial Black';
+}
+
+h2{
+    color:rgb(0, 168, 168);
+    font-size: 20px;
+    font-family: 'Arial Condensed ExtraBold';
+}
+
+h3{
+    color: rgb(0, 191, 191);
+    font-size: 16px;
+    font-family: 'Arial Narrow Bold';}
+
+p{
+    color:black;
+    font-size: 14px;
+    font: 'Arial Light';
+}
+table{border: solid 2px;
+      border-color: black; 
+      border-collapse: collapse;}
+
+th, tr{text-align: left; 
+       border: solid 2px;
+       border-color: black;
+       padding-right: 8px;
+       padding-left: 4px;}
+
+A:link{text-decoration: none;
+    color: rgb(56, 56, 250);}
+
+A:hover{text-decoration:underline; 
+        color:red;}
+
+A:visited{text-decoration:none;
+          color:rgb(211, 0, 211);}
+
+
+
